@@ -2,3 +2,4 @@ My first commit in master
 
 This is my first checkin for feature 1
 This is my second checkin for feature 1
+This is my third checkin for feature 1
