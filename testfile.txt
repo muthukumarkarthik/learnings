@@ -7,3 +7,7 @@ This is my third checkin for feature 1
 This is my first checkin for feature 2
 This is my second checkin for feature 2
 This is my third checkin for feature 2
+
+feature 3.1
+feature 3.2
+feature 3.3
